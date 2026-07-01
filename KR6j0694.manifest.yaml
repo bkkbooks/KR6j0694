@@ -1,0 +1,241 @@
+canonical_identifier: bkk:krp/KR6j0694/v1
+canonical_location: https://kanripo.org/bkk/KR6j0694/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 楞嚴經如說
+  identifiers:
+    alt_id:
+    - X13n0286
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X13/X13n0286.xml
+    old_id: X13n0286
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0694_000.yaml, hash: 'sha256:1059bb139193c2c99a6aace563e234eafb5880581dba2192d7c7c6d72ce5246e'}
+  - {seq: 1, filename: KR6j0694_001.yaml, hash: 'sha256:cc6800d0ae88a1396f053225cf93d5024bfb60855a4f94e88d465539dccf0047'}
+  - {seq: 2, filename: KR6j0694_002.yaml, hash: 'sha256:e5b60a3e59f4aabbec6bd26f371a3af69bdd080caaf9c0c4cabd71ab7698f38d'}
+  - {seq: 3, filename: KR6j0694_003.yaml, hash: 'sha256:d9702ed02029e1784c0189656dfa0b893d41836bf5fc76d62292dbaff598b890'}
+  - {seq: 4, filename: KR6j0694_004.yaml, hash: 'sha256:cde8b319b716b460ce76c34f86f28166f65f1dad12a60a924c076f2c00c9ebfc'}
+  - {seq: 5, filename: KR6j0694_005.yaml, hash: 'sha256:e458b6427fe5421c286b025349f25d3625e32c663797e11ba7246ac1434db508'}
+  - {seq: 6, filename: KR6j0694_006.yaml, hash: 'sha256:907c3bd8b738ba58c270f8f02ff3707833d6b56ffe9d940efe2b8d4efe381b93'}
+  - {seq: 7, filename: KR6j0694_007.yaml, hash: 'sha256:a28de58d6591d44b09d8637afab8d0c0ccba4fd03ca7e6654ea147341309de7c'}
+  - {seq: 8, filename: KR6j0694_008.yaml, hash: 'sha256:3d045534607bacf5f8ab5635ab4b60717ef6abdd86117785bb4c7754714543d8'}
+  - {seq: 9, filename: KR6j0694_009.yaml, hash: 'sha256:ad23728e5511803510402d1bbbc5bfd9187830561fb4853f72b927bf4c8a1c7e'}
+  - {seq: 10, filename: KR6j0694_010.yaml, hash: 'sha256:cbd8b29ecd3a326c8dcd98e071f21533ed3e4948fe7a593dd0ddb20db80c5d81'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0694_000.markers.yaml, hash: 'sha256:c004210907224db28fbcd382e2711338976565fbcce094bd64fa5e6cd6d43db6'}
+  - {seq: 1, role: markers, filename: assets/KR6j0694_001.markers.yaml, hash: 'sha256:483f8452fecf5e77423d34595d707b4e462bc87d3336538775f16d4388674f83'}
+  - {seq: 2, role: markers, filename: assets/KR6j0694_002.markers.yaml, hash: 'sha256:8a7776ef5e2470a25f03bdbd2b68d70ec7d9a87dbd091b3f387ade2956761bce'}
+  - {seq: 3, role: markers, filename: assets/KR6j0694_003.markers.yaml, hash: 'sha256:67a6ca9945de2d18cc24fc8000ecd91dcefc669171ba66766dcfe76b4cdc485f'}
+  - {seq: 4, role: markers, filename: assets/KR6j0694_004.markers.yaml, hash: 'sha256:224eb1a6e96e255477532147261cc8c349623c13c2518cd8e1e20c6ace5495a0'}
+  - {seq: 5, role: markers, filename: assets/KR6j0694_005.markers.yaml, hash: 'sha256:a5448c8e0aeef2f68a315f84a7fbd9d3273f23f2f6fd201b002ec1f8b3972ae7'}
+  - {seq: 6, role: markers, filename: assets/KR6j0694_006.markers.yaml, hash: 'sha256:077fb2731f1c72af906f61e4c95b7adb0897470dec824a0dab1eb1b362604891'}
+  - {seq: 7, role: markers, filename: assets/KR6j0694_007.markers.yaml, hash: 'sha256:aaab55488169aed6e497d47d7ce4f47522c213e4aa7c9e080d6dd4a9b4397383'}
+  - {seq: 8, role: markers, filename: assets/KR6j0694_008.markers.yaml, hash: 'sha256:c92b07dde36a521ad29ea90f33376ffb0cc8ce3f80ff293cda2b87f1af94d07a'}
+  - {seq: 9, role: markers, filename: assets/KR6j0694_009.markers.yaml, hash: 'sha256:5e170dd157826a32f8f4692c1ec2d562830a6803a2d46fcb96c7f8bceae5e2cd'}
+  - {seq: 10, role: markers, filename: assets/KR6j0694_010.markers.yaml, hash: 'sha256:837c507147dafb2f2640202f6615c9ebfbef74cf70194d5083fc456b5625a071'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6j0694_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 286 通釋名題
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6j0694_X_000-mulu-2
+    span:
+    - front
+    - 303
+    - 303
+  label: No. 286-A 楞嚴經敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6j0694_X_000-mulu-3
+    span:
+    - front
+    - 1318
+    - 1318
+  label: No. 286-B 楞嚴經如說原序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6j0694_X_000-mulu-4
+    span:
+    - front
+    - 2005
+    - 2005
+  label: No. 286-C 如說新序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6j0694_X_000-mulu-5
+    span:
+    - front
+    - 2452
+    - 2452
+  label: 楞嚴經如說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0694_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 12216
+  label: '大佛頂如來密因修證了義諸菩薩
+
+    萬行首楞嚴經如說第一卷'
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0694_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 15648
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    如說第二卷'
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0694_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 13184
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    如說第三卷'
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0694_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 16520
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    如說第四卷'
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6j0694_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 13090
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    如說第五卷'
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6j0694_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 15413
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    如說第六卷'
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6j0694_X_007-juan-start
+    span:
+    - body
+    - 0
+    - 14535
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    如說第七卷'
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0694_X_008-juan-start
+    span:
+    - body
+    - 0
+    - 17826
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    如說第八卷'
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6j0694_X_009-juan-start
+    span:
+    - body
+    - 0
+    - 15371
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    如說第九卷'
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0694_X_010-juan-start
+    span:
+    - body
+    - 0
+    - 14159
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    如說第十卷'
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0694_X_010-mulu-1
+    span:
+    - body
+    - 13474
+    - 13474
+  label: No. 286-D 重刻楞嚴經如說䟦
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0694_X_010-mulu-2
+    span:
+    - body
+    - 13812
+    - 13812
+  label: No. 286-E
+  type: mulu
+  level: 1
+hash: sha256:2a39a2466072da4ad99a7de84a2487c222bfe988b2e47f3c9f0783fcb4fcd643
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
