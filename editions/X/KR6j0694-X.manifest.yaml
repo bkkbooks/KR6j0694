@@ -19,7 +19,7 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6j0694_000-X.yaml, hash: 'sha256:9beb812d711d272a7be06fc7c04d4b6b0e928e121c1c58d9089c5bff2f33fab4'}
+  - {seq: 0, filename: KR6j0694_000-X.yaml, hash: 'sha256:c18171b362750e9845a8f1a994fc2db76fc5271b46291dd2d6211a8bdf288b81'}
   - {seq: 1, filename: KR6j0694_001-X.yaml, hash: 'sha256:882da05e51ee96b4af789f3e8dbce0c2c3ffb059f4ee7c00d047513255eeb122'}
   - {seq: 2, filename: KR6j0694_002-X.yaml, hash: 'sha256:c74c8cff74dfec0f440a31f60d3ef229d704447e4498858a408b7a55d37f66e2'}
   - {seq: 3, filename: KR6j0694_003-X.yaml, hash: 'sha256:b12154f636788b9aa6a316f76e0a951a9eb30be629eda46e06783730f2d21fa6'}
@@ -31,7 +31,7 @@ assets:
   - {seq: 9, filename: KR6j0694_009-X.yaml, hash: 'sha256:0376ccf64ebeac30c1768756e48a47815ac3e254ea9545703a91696818a2a2a8'}
   - {seq: 10, filename: KR6j0694_010-X.yaml, hash: 'sha256:fc5cddceb396bb428836a01726e98fd9b9238417d7f9e59e21367156688c631f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0694_000-X.markers.yaml, hash: 'sha256:b36fc8f021896f20bccd457d9c68fb3e291a6c424eb191812bd711ad0d9c4b03'}
+  - {seq: 0, role: markers, filename: assets/KR6j0694_000-X.markers.yaml, hash: 'sha256:ef0e2e134865a16cea5659b34d04aa0f947599186a42ab9ebc11b9659c33e83d'}
   - {seq: 1, role: markers, filename: assets/KR6j0694_001-X.markers.yaml, hash: 'sha256:199b9e5d546c597437c8199d59047f6eb53ea7dc5883ea6b60c4dc4bfbf98be0'}
   - {seq: 2, role: markers, filename: assets/KR6j0694_002-X.markers.yaml, hash: 'sha256:754b860d5ef987f043fb7ac9a68d2e6e53bf2ffee79d714f79abe24a49c9acee'}
   - {seq: 3, role: markers, filename: assets/KR6j0694_003-X.markers.yaml, hash: 'sha256:1db5ca624dd50effab91dd77393b5d9c99479a0ab99f9b913804872447b5c10c'}
@@ -47,7 +47,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0694_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 286 通釋名題
@@ -57,7 +57,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0694_X_000-mulu-2
     span:
-    - front
+    - body
     - 303
     - 303
   label: No. 286-A 楞嚴經敘
@@ -67,7 +67,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0694_X_000-mulu-3
     span:
-    - front
+    - body
     - 1318
     - 1318
   label: No. 286-B 楞嚴經如說原序
@@ -77,7 +77,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0694_X_000-mulu-4
     span:
-    - front
+    - body
     - 2005
     - 2005
   label: No. 286-C 如說新序
@@ -87,7 +87,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0694_X_000-mulu-5
     span:
-    - front
+    - body
     - 2452
     - 2452
   label: 楞嚴經如說
@@ -233,4 +233,4 @@ table_of_contents:
   label: No. 286-E
   type: mulu
   level: 1
-hash: sha256:65c3eb4a570dd80d2c027759d0064c37bb8919208b91d33e19d989acb620d4be
+hash: sha256:d514a2b5399b40b38979587aea56bd9909e96a34250136988f61f216c019db0c
